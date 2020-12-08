@@ -4,7 +4,7 @@ const app = express();
 
 const request = require('request');
 
-const token = ''; //填写你在BotFather申请到的token
+const token = '1439332010:AAFBRC15eipigQmRUsRcDwGUKQCYep_Nrkc'; //填写你在BotFather申请到的token
 
 const tmdbapi = '';  //填写你在TMDb申请到的API Key
 
